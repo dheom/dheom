@@ -1,13 +1,7 @@
 # Hi there 👋
 I'm home-protector
 
-Here are some ideas to get you started:
 
- 🔭 I’m currently working on My home
-- 🌱 I’m currently learning Python & AI solution & No-code tool
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: Absolutely 'He'. There are no other pronouns other than ‘she and he’.
-- ⚡ Fun fact: ...
+노코드 툴 Bubble을 이용한 커뮤니티 제작 ( DAU 600~1000 ) -> 폐쇄
+서버비 및 툴 사용 비용이 적합하지 않다고 판단되어 Flutter 공부중,,, 
+비전공자라서 유튜브 인강보면서 하는데 실력이 매일 제자리 걸음 중 ( 25.01.20 ~ )
